@@ -1,2 +1,4 @@
 # Hello-world
-My first  github project
+My first  github project.
+
+Sucheta started working with github on Hello world project
